@@ -48,7 +48,7 @@ h1{
   width: fit-content;
   border-right: 1px solid;
   overflow-y: auto;
-  /* background-color: rgb(104, 104, 104); */
+  background-color: rgb(218, 218, 218);
 }
 #main {
   margin-left: 220px;
@@ -77,12 +77,9 @@ code {
  #navbar{
     top: 0;
     width: 100%;
-    background-color: rebeccapurple;
     height: 200px;
+    z-index: 100;
     
-}
-#navbar a{
-
 }
   #main{
       margin-left: 0;
